@@ -1,1 +1,1 @@
-Compute Studio is in maintenance mode. We are working to update models and seeking financial support for compute costs on our free models.  Subscriptions are paused.  If you have questions or would like help navigating this period for your ongoing projects, please do not hesitate to reach out.  If you are interested in supporting free access to models on Compute Studio (or know of individuals or institutions who might be), please reach out also.  Email: matthjensen (at) gmail (dot) com. 
+Compute Studio is in maintenance mode. 
